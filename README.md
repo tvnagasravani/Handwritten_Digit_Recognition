@@ -71,11 +71,11 @@ If you do not want the data to display in the command prompt, you can comment ou
 
 | Algorithm               | Accuracy     |
 |-------------------------|--------------|
-| K-Nearest Neighbors (KNN)| 97.88%       |
-| SVM                     | 99.91%       |
-| Random Forest            | 99.71%       |
-| Logistic Regression      | 83.15%       |
-| Linear Regression        | 30.88%       |
+| K-Nearest Neighbors (KNN)| 96.07%       |
+| SVM                     | 97.08%       |
+| Random Forest            | 96.84%       |
+| Logistic Regression      | 92.02%       |
+| Linear Regression        | 21.98%       |
 
 ## Analysis
 
