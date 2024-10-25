@@ -81,8 +81,8 @@ If you do not want the data to display in the command prompt, you can comment ou
 
 By analyzing the results, we can conclude the following:
 
-- **Algorithm with the highest accuracy**: SVM (99.91%)
-- **Algorithm with the lowest accuracy**: Linear Regression (30.88%)  
+- **Algorithm with the highest accuracy**: SVM (97.08%)
+- **Algorithm with the lowest accuracy**: Linear Regression (21.98%)  
   - Note: The accuracy of Linear Regression can be improved using Logistic Regression.
 
 ## License
