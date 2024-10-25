@@ -71,18 +71,18 @@ If you do not want the data to display in the command prompt, you can comment ou
 
 | Algorithm               | Accuracy     |
 |-------------------------|--------------|
-| K-Nearest Neighbors (KNN)| 96.07%       |
-| SVM                     | 97.08%       |
-| Random Forest            | 96.84%       |
-| Logistic Regression      | 92.02%       |
-| Linear Regression        | 21.98%       |
+| K-Nearest Neighbors (KNN)| 95.80%       |
+| SVM                     | 98.74%       |
+| Random Forest            | 96.43%       |
+| Logistic Regression      | 83.15%       |
+| Linear Regression        | 21.99%       |
 
 ## Analysis
 
 By analyzing the results, we can conclude the following:
 
-- **Algorithm with the highest accuracy**: SVM (97.08%)
-- **Algorithm with the lowest accuracy**: Linear Regression (21.98%)  
+- **Algorithm with the highest accuracy**: SVM (98.74%)
+- **Algorithm with the lowest accuracy**: Linear Regression (21.99%)  
   - Note: The accuracy of Linear Regression can be improved using Logistic Regression.
 
 ## License
